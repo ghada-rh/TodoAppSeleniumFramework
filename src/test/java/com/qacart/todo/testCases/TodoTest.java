@@ -6,11 +6,7 @@ import com.qacart.todo.pages.LoginPage;
 import com.qacart.todo.pages.NewTodoPage;
 import com.qacart.todo.pages.TodoPage;
 import com.qacart.todo.utils.ConfigUtils;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
